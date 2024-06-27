@@ -17,7 +17,7 @@ function App() {
           <Route path="/" exact Component={Home}></Route>
           <Route path="/register" exact Component={register}></Route>
           <Route path="/dashboard" exact Component={dashboard}></Route>
-          <Route path="/logout" exact Component={logout}></Route>
+          
           
 
    </Routes>
